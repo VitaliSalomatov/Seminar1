@@ -1,0 +1,14 @@
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\bin\Debug\net8.0\Seminar1.exe
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\bin\Debug\net8.0\Seminar1.deps.json
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\bin\Debug\net8.0\Seminar1.runtimeconfig.json
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\bin\Debug\net8.0\Seminar1.dll
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\bin\Debug\net8.0\Seminar1.pdb
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.AssemblyInfoInputs.cache
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.AssemblyInfo.cs
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.dll
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\refint\Seminar1.dll
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.pdb
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.genruntimeconfig.cache
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\ref\Seminar1.dll
