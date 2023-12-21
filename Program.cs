@@ -16,17 +16,32 @@
 // Console.ReadLine () - получить информацию из строки
 //string input = Console.ReadLine();
 // "123" + "123" (конкатенация)
-Console.Write("Введите первое число: ");
-int firstNumber = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите первое число: ");
+// int firstNumber = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите второе число: ");
-int secondNumber = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// int secondNumber = Convert.ToInt32(Console.ReadLine());
 
-if (firstNumber == secondNumber * secondNumber)
+// if (firstNumber == secondNumber * secondNumber)
+// {
+//     Console.WriteLine("Да, " + firstNumber + " является квадратом числа " + secondNumber);
+// }
+// else
+// {
+//     Console.WriteLine("Нет, " + firstNumber + " не является квадратом числа " + secondNumber);
+// }
+// целое число N, а на выходе показывает все целые
+// числа в промежутке от -N до N.
+// Примеры
+// 4 => -4, -3, -2, -1, 0, 1, 2, 3, 4
+// 2 => -2, -1, 0, 1, 2
+using System.Threading.Tasks.Dataflow;
+
+Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+int negativeN = N * -1;
+while (negativeN <= N)
 {
-    Console.WriteLine("Да, " + firstNumber + " является квадратом числа " + secondNumber);
-}
-else
-{
-    Console.WriteLine("Нет, " + firstNumber + " не является квадратом числа " + secondNumber);
+    Console.Write(negativeN + " ");
+    negativeN = negativeN + 1;
 }
