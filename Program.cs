@@ -10,5 +10,23 @@
 
 // Тип_данных имя_переменной = значение;
 // camelCase: firstNumber, secondNumber
-int number = 9;
-int result = number * number;
+// int number = 9;
+// int result = number * number;
+
+// Console.ReadLine () - получить информацию из строки
+//string input = Console.ReadLine();
+// "123" + "123" (конкатенация)
+Console.Write("Введите первое число: ");
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите второе число: ");
+int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+if (firstNumber == secondNumber * secondNumber)
+{
+    Console.WriteLine("Да, " + firstNumber + " является квадратом числа " + secondNumber);
+}
+else
+{
+    Console.WriteLine("Нет, " + firstNumber + " не является квадратом числа " + secondNumber);
+}

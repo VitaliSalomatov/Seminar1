@@ -12,3 +12,4 @@ C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\refi
 C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.pdb
 C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.genruntimeconfig.cache
 C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\ref\Seminar1.dll
+C:\Users\Vitaliy Salomatov\Desktop\New_Repository\Seminar1\obj\Debug\net8.0\Seminar1.sourcelink.json
