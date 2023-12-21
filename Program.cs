@@ -39,9 +39,14 @@ using System.Threading.Tasks.Dataflow;
 
 Console.Write("Введите число N: ");
 int N = Convert.ToInt32(Console.ReadLine());
+if (N < 0)
+{
+    Console.WriteLine("Введено отрицательное число");
+    N = N * -1;
+}
 int negativeN = N * -1;
 while (negativeN <= N)
 {
     Console.Write(negativeN + " ");
-    negativeN = negativeN + 1;
+    negativeN++;
 }
